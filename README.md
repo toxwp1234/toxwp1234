@@ -33,6 +33,19 @@ I’m a dedicated Python developer with a focus on **clean, efficient, and maint
 
 ---
 
+## 🔥 Breaking Bad Energy
+
+![Walter White](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
+*"I am the one who codes!"*  
+
+![Walter White 2](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
+*"Say my name… it's Python!"*  
+
+![Walter White 3](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+*"Yeah, science!"*  
+
+---
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
