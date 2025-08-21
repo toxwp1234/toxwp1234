@@ -1,15 +1,15 @@
 # 🌌 My Professional GitHub Showcase
 
-![Banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
 
 ---
 
 ## 👋 About Me
-Hello! I’m a passionate developer focused on clean, efficient, and aesthetic code. I love creating projects that are both **functional** and **beautiful**.
+I’m a dedicated Python developer with a focus on **clean, efficient, and maintainable code**. I aim to create projects that are both **functional** and **aesthetically pleasing**.
 
-- 💻 Languages: Python, JavaScript, C++  
-- 🎨 Interests: UI/UX Design, Data Visualization  
-- 🌱 Currently Learning: Rust & WebAssembly  
+- 💻 **Languages:** Python  
+- 🎨 **Interests:** Data Science, AI, Automation  
+- 🌱 **Currently Learning:** Advanced Python Libraries & Web Automation  
 
 ---
 
@@ -17,23 +17,18 @@ Hello! I’m a passionate developer focused on clean, efficient, and aesthetic c
 
 | Category         | Skills & Tools                     |
 |-----------------|----------------------------------|
-| Programming      | Python, JavaScript, C++, Rust     |
-| Frontend         | HTML, CSS, React, TailwindCSS     |
-| Backend          | Node.js, Express, Django          |
-| Tools & Platforms| Git, GitHub, Docker, Figma        |
+| Programming      | Python                             |
+| Data & AI        | Pandas, NumPy, Scikit-learn, TensorFlow |
+| Web & Automation | Flask, FastAPI, Selenium          |
+| Tools & Platforms| Git, GitHub, Docker               |
 
 ---
 
 ## 📂 Projects
 
-### 1. **✨ Starry Dashboard**
-- A responsive web dashboard with real-time analytics.
-- Technologies: React, D3.js, TailwindCSS
-- ![Dashboard Preview](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-### 2. **🧠 AI Chat Companion**
-- A chatbot with memory & context capabilities.
-- Technologies: Python, FastAPI, OpenAI API
+### **🧠 AI Chat Companion**
+- A Python-based chatbot with memory & context capabilities.
+- **Technologies:** Python, FastAPI, OpenAI API
 - ![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
 
 ---
@@ -44,9 +39,9 @@ Hello! I’m a passionate developer focused on clean, efficient, and aesthetic c
 ---
 
 ## ✨ Contact
-- 📧 Email: your.email@example.com  
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 **Email:** your.email@example.com  
+- 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
 
