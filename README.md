@@ -1,61 +1,61 @@
-# 🌌 My Professional GitHub Showcase
+# 🌌 Мой професійний GitHub Показ
 
 ![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
 
 ---
 
-## 👋 About Me
-I’m a dedicated Python developer with a focus on **clean, efficient, and maintainable code**. I aim to create projects that are both **functional** and **aesthetically pleasing**.
+## 👋 Про мене
+Я є відданий Python розробник с акцент на **чистий, ефективний і підтримуваний код**. Моя мета створювати проекти які одночасно **функціональні** і **естетически приємні**.  
 
-- 💻 **Languages:** Python  
-- 🎨 **Interests:** Data Science, AI, Automation  
-- 🌱 **Currently Learning:** Advanced Python Libraries & Web Automation  
-
----
-
-## 🛠️ Skills & Tools
-
-| Category         | Skills & Tools                     |
-|-----------------|----------------------------------|
-| Programming      | Python                             |
-| Data & AI        | Pandas, NumPy, Scikit-learn, TensorFlow |
-| Web & Automation | Flask, FastAPI, Selenium          |
-| Tools & Platforms| Git, GitHub, Docker               |
+- 💻 **Мови:** Python  
+- 🎨 **Інтереси:** Data Наука, AI, автоматизація  
+- 🌱 **Наразі Вивчаю:** Розширені Python бібліотеки і Web Автоматизація  
 
 ---
 
-## 📂 Projects
+## 🛠️ Навички та інструменти
 
-### **🧠 AI Chat Companion**
-- A Python-based chatbot with memory & context capabilities.
-- **Technologies:** Python, FastAPI, OpenAI API
-- ![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+| Категорія       | Навички та інструменти              |
+|-----------------|-----------------------------------|
+| Програмування    | Python                             |
+| Дані та AI      | Pandas, NumPy, Scikit-learn, TensorFlow |
+| Web та Авто      | Flask, FastAPI, Selenium          |
+| Інструменти та Платформи | Git, GitHub, Docker           |
 
 ---
 
-## 🔥 Breaking Bad Energy
+## 📂 Проекти
+
+### **🧠 AI Chat Компаньйон**
+- Python-основний чат-бот з пам'яттю та можливістю контексту.  
+- **Технології:** Python, FastAPI, OpenAI API  
+- ![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+
+---
+
+## 🔥 Breaking Bad Енергія
 
 ![Walter White](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
-*"I am the one who codes!"*  
+*"Я той хто кодує!"*  
 
 ![Walter White 2](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
-*"Say my name… it's Python!"*  
+*"Назви мене… це Python!"*  
 
 ![Walter White 3](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
-*"Yeah, science!"*  
+*"Так, наука!"*  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Статистика
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
-## ✨ Contact
-- 📧 **Email:** your.email@example.com  
-- 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+## ✨ Контакти
+- 📧 **Емейл:** your.email@example.com  
+- 🌐 **Вебсайт:** [yourwebsite.com](https://yourwebsite.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 ---
 
-> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+> “Простота є остаточна вишуканість.” – Leonardo da Vinci
