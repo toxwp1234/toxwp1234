@@ -38,16 +38,16 @@
 ![Walter White](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
 *"Я той хто кодує!"*  
 
-![Walter White 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFscmV5a3h1dzd6b2w5aGs4Y3k0dzR4NmlqZnVkOHB0aG1xamxkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QT9SVRVexMgOk/giphy.gif)  
+![Walter White 2](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
 *"Назви мене… це Python!"*  
 
-![Walter White 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNmcDc4OGxlZjBhOWIwMzZrZ3kycm10Y2plNm1jd2JwdnE2MzZ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0J5Vf8qO83EA/giphy.gif)  
+![Walter White 3](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
 *"Так, наука!"*  
 
 ---
 
 ## 📈 GitHub Статистика
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NoldGigger&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WifeBeater&show_icons=true&theme=radical)
 
 ---
 
