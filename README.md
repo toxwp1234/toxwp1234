@@ -1,6 +1,6 @@
 # 🌌 Мой професійний GitHub Показ
 
-![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="AI Preview" width="900"/>
 
 ---
 
@@ -17,10 +17,10 @@
 
 | Категорія       | Навички та інструменти              |
 |-----------------|-----------------------------------|
-| Програмування    | Python                             |
-| Дані та AI      | Pandas, NumPy, Scikit-learn, TensorFlow |
-| Web та Авто      | Flask, FastAPI, Selenium          |
-| Інструменти та Платформи | Git, GitHub, Docker           |
+| Програмування    | Python, SQL                          |
+| Дані та AI      | Pandas, NumPy, Scikit-learn, Pytorch |
+| Web та Авто      |  FastAPI, SQLAlchemy          |
+| Інструменти та Платформи | Git, GitHub           |
 
 ---
 
@@ -29,25 +29,33 @@
 ### **🧠 AI Chat Компаньйон**
 - Python-основний чат-бот з пам'яттю та можливістю контексту.  
 - **Технології:** Python, FastAPI, OpenAI API  
-- ![AI Preview](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="AI Preview" width="700"/>
 
 ---
 
 ## 🔥 Breaking Bad Енергія
 
-![Walter White](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Walter White" width="600"/>
 *"Я той хто кодує!"*  
 
-![Walter White 2](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="Walter White 2" width="300"/>
 *"Назви мене… це Python!"*  
 
-![Walter White 3](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="Walter White 3" width="1000"/>
 *"Так, наука!"*  
 
 ---
 
 ## 📈 GitHub Статистика
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niger&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=toxwp1234&show_icons=true&hide=stars,contribs&theme=tokyonight&bg_color=00000000&hide_rank=true&border_radius=15&title_color=58A6FF&text_color=9FEF00&icon_color=FFDD00" 
+    alt="toxwp1234's GitHub stats" width="949%"/>
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxwp1234&layout=compact&theme=tokyonight&bg_color=00000000&border_radius=15&title_color=58A6FF&text_color=9FEF00" 
+    alt="Top Languages" width="419%"/>
+</p>
 
 ---
 
