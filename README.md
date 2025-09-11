@@ -17,8 +17,8 @@
 
 | Категорія       | Навички та інструменти              |
 |-----------------|-----------------------------------|
-| Програмування    | Python, SQL  ,Powershell                        |
-| Дані та AI      | Pandas, NumPy, Scikit-learn, Pytorch,SciPY,xgboost,Yfinance |
+| Програмування    | Python, SQL, Powershell                        |
+| Дані та AI      | Pandas, NumPy, Scikit-learn, Pytorch, SciPY, Xgboost, Yfinance |
 | Web та Авто      |  FastAPI, SQLAlchemy, LDAP3,          |
 | Інструменти та Платформи | Git, GitHub,         |
 
