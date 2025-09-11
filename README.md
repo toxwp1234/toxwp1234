@@ -17,34 +17,12 @@
 
 | Категорія       | Навички та інструменти              |
 |-----------------|-----------------------------------|
-| Програмування    | Python, SQL                          |
-| Дані та AI      | Pandas, NumPy, Scikit-learn, Pytorch |
-| Web та Авто      |  FastAPI, SQLAlchemy          |
-| Інструменти та Платформи | Git, GitHub           |
+| Програмування    | Python, SQL  ,Powershell                        |
+| Дані та AI      | Pandas, NumPy, Scikit-learn, Pytorch,SciPY,xgboost,Yfinance |
+| Web та Авто      |  FastAPI, SQLAlchemy, LDAP3,          |
+| Інструменти та Платформи | Git, GitHub,         |
 
----
 
-## 📂 Проекти
-
-### **🧠 AI Chat Компаньйон**
-- Python-основний чат-бот з пам'яттю та можливістю контексту.  
-- **Технології:** Python, FastAPI, OpenAI API  
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="AI Preview" width="700"/>
-
----
-
-## 🔥 Breaking Bad Енергія
-
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Walter White" width="600"/>
-*"Я той хто кодує!"*  
-
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="Walter White 2" width="300"/>
-*"Назви мене… це Python!"*  
-
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="Walter White 3" width="1000"/>
-*"Так, наука!"*  
-
----
 
 ## 📈 GitHub Статистика
 <p align="center">
